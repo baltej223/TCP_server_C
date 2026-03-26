@@ -2,7 +2,7 @@
 
 - So I was reading about low level network programming, and to deepen my understanding about network programming, and how UNIX handles that, I thought to make TCP server in C from Scratch.
 
-- So obviously, I wont be writing TCP itself, instead I allowed kernel to handle that for me. And used I am using socket interface provided by OS (POSIX only).
+- I didn't implemented TCP itself, instead I allowed kernel to handle that for me. And used I am using socket interface provided by OS (POSIX only).
 
 ### Current flow goes as follows
 
